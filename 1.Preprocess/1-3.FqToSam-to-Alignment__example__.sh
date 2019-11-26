@@ -9,4 +9,3 @@
 
 # 3. Aligend read summarization (per barcode using TAG=XC)
 # <path to Drop-seq tools>/BAMTagHistogram I=<aligned bam> O=<output read count> TAG=XC
-
