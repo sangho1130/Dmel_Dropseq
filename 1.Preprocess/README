@@ -1,3 +1,3 @@
-Scripts in this directory describe 
-1) how to generate metafiles to run <DropSeq alignment tool> and 
+Scripts in this directory describe how to 
+1) generate metafiles to run <DropSeq alignment tool> and 
 2) get an UMI count matrix from a pair of raw Drop-Seq fastq files
