@@ -1,0 +1,5 @@
+celltype	Lymphgland	Circulation
+PM1	6599	2096
+PM2	1812	0
+PM3	457	0
+PM4	578	0

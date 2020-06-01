@@ -1,0 +1,8 @@
+celltype	Lymphgland	Circulation
+PSC	157	0
+PH	6508	119
+PM	9446	2096
+LM	338	0
+CC	276	151
+GST-rich	220	0
+Adipohemocyte	177	0

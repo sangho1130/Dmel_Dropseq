@@ -1,0 +1,7 @@
+celltype	Lymphgland	Circulation
+PH1	64	65
+PH2	72	0
+PH3	336	0
+PH4	4267	54
+PH5	1321	0
+PH6	448	0
