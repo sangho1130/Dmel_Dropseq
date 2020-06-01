@@ -1,0 +1,3 @@
+celltype	Lymphgland	Circulation
+CC 1	163	89
+CC 2	113	104
